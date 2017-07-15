@@ -86,4 +86,4 @@ jobs:
         args:
         - -c
         - |
-          python -V
+          python3 -V
